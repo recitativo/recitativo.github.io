@@ -16,7 +16,7 @@ https://recitativo.github.io/slideshow.html?md=[URL or path to markdown file]&ti
 ```
 
 Notes:
-* [Slideshow for this page](slideshow.html?md=slides.md&title=Slideshow&theme=sky)
+* [Slideshow for this page](slideshow.html?md=slides.md&title=Slideshow&theme=https://recitativo.github.io/revealjs-custom-jp.css)
 * After opening slideshow, press `s` key to show `Note:` segment in presenter window.
 
 ---
